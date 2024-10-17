@@ -41,13 +41,11 @@ Output:
 
 ## Beginner-Friendly Setup
 This tool is designed for ease of use:
-No advanced coding skills required: Just basic Python and Jupyter knowledge.
-No Instagram API connection: Simply provide a list of hashtags and get started.
+  No advanced coding skills required: Just basic Python and Jupyter knowledge.
+  No Instagram API connection: Simply provide a list of hashtags and get started.
 
 ## Contributing
-
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-
 This project is licensed under the MIT License.
